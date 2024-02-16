@@ -1,0 +1,1 @@
+select * from rada_bwg_t.rpt_ma_sm_dx
